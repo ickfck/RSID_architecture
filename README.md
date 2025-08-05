@@ -38,6 +38,9 @@ Analogy & Inference: A new piece of information (a new oscillator) is introduced
 
 Contextual Awareness: The state of the entire network at any given moment provides the "context" that governs the behavior of any single oscillator.
 
+### 3.4. Time and the Intrinsic Semantic Clock
+Unlike traditional computational models that rely on an external, arbitrary clock, RSID's sense of time is intrinsic to its dynamics. The system progresses through discrete time steps (Δt), during which each oscillator's phase evolves based on its natural frequency and the influence of its coupled neighbors. This continuous evolution of phases, and particularly the moments when clusters phase-lock or form stable resonant states, constitutes the system's internal "semantic clock." Meaning emerges and is integrated not just from static relationships, but from how these oscillatory patterns unfold and synchronize over time. This intrinsic temporal pacing allows for dynamic context, temporal integration, and the continuous adaptation of the network's knowledge.
+
 ## 4. Key Features (Planned & In Progress)
 
 Dynamic Knowledge Graph: A continuously evolving representation of knowledge where relationships are not static links but dynamic, resonant states.
